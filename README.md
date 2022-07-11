@@ -1,4 +1,4 @@
-# :butterfly:千寻简Git连接GitHub
+# :star:千寻简目录导航
 
 ## :notebook_with_decorative_cover: 笔记介绍
 
@@ -16,9 +16,9 @@
 
 #### :three: [千寻简Java词典音标版](https://github.com/MrChihiro/chihiro-notes/blob/main/%E5%8D%83%E5%AF%BB%E7%AE%80Java%E8%AF%8D%E5%85%B8%E9%9F%B3%E6%A0%87%E7%89%88/%E5%8D%83%E5%AF%BB%E7%AE%80Java%E8%AF%8D%E5%85%B8%E9%9F%B3%E6%A0%87%E7%89%88.md)
 
-#### :four:
+#### :four:[千寻简刷八股文-第一天](https://github.com/MrChihiro/chihiro-notes/blob/main/千寻简刷八股文/千寻简刷八股文-第一天.md):
 
-#### :five:
+#### :five:[千寻简Typora上传博客图片无法显示解决方案](https://github.com/MrChihiro/chihiro-notes/blob/main/千寻简Typora上传博客图片无法显示解决方案/千寻简Typora上传博客图片无法显示解决方案.md)
 
 #### :six:
 
@@ -29,3 +29,4 @@
 #### :nine:
 
 #### :keycap_ten:
+
