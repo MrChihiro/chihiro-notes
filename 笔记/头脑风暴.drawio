@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:12:37.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FQ4IRhPFivhRorNQxwfM" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T07:47:42.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="J3d3szGSZkYi_OCHIhM-" version="20.1.1" type="github">
   <diagram id="YMKto4nkkbXnwOMyfpTL" name="Page-1">
     <mxGraphModel dx="1334" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,23 @@
         </mxCell>
         <mxCell id="5I4CGSTl5R4p9siOL2zQ-5" value="前端限制用户输入" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i9nsg_vAL1JmGVUzBjhE-3" value="大数据可视化" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="230" y="910" width="880" height="500" as="geometry">
+            <mxRectangle x="250" y="910" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i9nsg_vAL1JmGVUzBjhE-22" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.office_building;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="i9nsg_vAL1JmGVUzBjhE-3">
+          <mxGeometry x="50" y="50" width="33" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="i9nsg_vAL1JmGVUzBjhE-23" value="博雅二栋 开户300人" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="i9nsg_vAL1JmGVUzBjhE-3">
+          <mxGeometry x="-5" y="135" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i9nsg_vAL1JmGVUzBjhE-24" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.office_building;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="i9nsg_vAL1JmGVUzBjhE-3">
+          <mxGeometry x="180" y="50" width="33" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="i9nsg_vAL1JmGVUzBjhE-25" value="博雅一栋 开户200人" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="i9nsg_vAL1JmGVUzBjhE-3">
+          <mxGeometry x="125" y="135" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
